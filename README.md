@@ -31,5 +31,10 @@ ___
 - Data & Analysis: Data files from NBA.com and R scripts for analysis and visualizations
 - Slide deck: full visual presentation of the findings
 
+#### Data Sources:
+- **NBA Advanced Stats** – Team Shooting by Distance. - NBA.com. Retrieved from https://www.nba.com/stats/teams/shooting?DistanceRange=8ft+Range
+- **HoopR Package** - Gilani, S. (2021). hoopR: The SportsDataverse's R Package for Men's Basketball Data. Retrieved from https://hoopR.sportsdataverse.org
+- **SportsMediaWatch** - Lewis, J. (2025, February). Ratings: NBA, PGA, TGL, Unrivaled. Sports Media Watch. Retrieved from https://www.sportsmediawatch.com/2025/02/nba-ratings-tnt-february-pga-cbs-nbc-tgl-unrivaled
+
 *To Be Continued...*
 
