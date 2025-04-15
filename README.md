@@ -36,5 +36,5 @@ ___
 - **HoopR Package** - Gilani, S. (2021). hoopR: The SportsDataverse's R Package for Men's Basketball Data. Retrieved from https://hoopR.sportsdataverse.org
 - **SportsMediaWatch** - Lewis, J. (2025, February). Ratings: NBA, PGA, TGL, Unrivaled. Sports Media Watch. Retrieved from https://www.sportsmediawatch.com/2025/02/nba-ratings-tnt-february-pga-cbs-nbc-tgl-unrivaled
 
-*To Be Continued...*
+### *To Be Continued...*
 
